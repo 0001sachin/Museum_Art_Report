@@ -3,7 +3,7 @@
 This project is an Excel Dashboard created from a museum dataset.
 The goal was to analyze museum data and present it in a visual and interactive report.
 
-![Dashboard Screenshot 2]()
+![Dashboard Screenshot 2](https://github.com/0001sachin/Museum_Art_Report/blob/main/Screenshot%202025-08-29%20141607.png)
 
 📊 Dashboard Overview
 
